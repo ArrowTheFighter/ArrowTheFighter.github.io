@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: text-image
 title: About
 permalink: /about
+image: /assets/img/photo.jpg
 ---
 
 # Jordan
