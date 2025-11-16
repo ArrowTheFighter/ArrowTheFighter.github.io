@@ -4,6 +4,13 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Jordan
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I’m a passionate Unity games developer with a deep curiosity for game development
+technologies. I enjoy exploring new tools and techniques to enhance my
+understanding of game systems and expand my skill set. I’ve been making games for
+just over 10 years and have no plans on stopping.
+I’ve been involved in hundreds of projects across various genres and platforms,
+working with clients from different parts of the world. My experience spans projects
+of all sizes, from small indie prototypes to large-scale productions. I’m always
+looking for new opportunities to push my skills further and learn.
