@@ -1,0 +1,26 @@
+---
+layout: about
+---
+
+<section>
+  <div class="post-container two-column">
+
+    <div class="column-left">
+      <h4 class="project-title">{{ page.title }}</h4>
+      <div class="project-text">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="column-right">
+      {% if page.image %}
+        <img src="{{ page.image }}" alt="{{ page.title }}" />
+      {% endif %}
+    </div>
+
+  </div>
+
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</section>
