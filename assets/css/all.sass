@@ -17,3 +17,30 @@ $documentBackgroundColor: #fff
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'
+
+
+// Two-column text + image layout
+.two-column
+  display: flex
+  gap: 40px
+  align-items: flex-start
+
+.column-left
+  flex: 1
+
+.column-right
+  flex: 1
+  text-align: right
+
+.column-right img
+  max-width: 100%
+  height: auto
+  border-radius: 6px
+
+// Responsive stack on mobile
+@media (max-width: 768px)
+  .two-column
+    flex-direction: column
+  .column-right
+    text-align: left
+
