@@ -9,7 +9,7 @@ Players race to the finish line alongside the ghosts of other real players' reco
 I was in charge of developing and setting up the multiplayer server and code for this project.
 I used an HTTP server in Node.js to handle all the server side functionality of receiving recorded games and sending clients the past recordings when they started a new match.
 
-View the github page here: <https://github.com/KauyonKais/kenneyjam_2025_power>
+View the github page here: <https://github.com/KauyonKais/kenneyjam_2025_power><br>
 Try the game out here: <https://arrowthefighter.itch.io/at-capacity>
 
 {% include image.html url="https://github.com/KauyonKais/kenneyjam_2025_power" image="projects/proj-6/Screenshot1.png" text="View GitHub" %}
