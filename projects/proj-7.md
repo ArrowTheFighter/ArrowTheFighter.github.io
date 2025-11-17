@@ -1,13 +1,20 @@
 ---
 layout: post
-title: "At Capacity"
+title: "Legends of Raéowölf"
 developer: "Gideon"
 ---
 
-At Capacity is a racing arcade game with asynchronous multiplayer, built in 2 days for the Kenney 2025 game jam.
-Players race to the finish line alongside the ghosts of other real players' recordings.
-I was in charge of developing and setting up the multiplayer server and code for this project.
-I used an HTTP server in Node.js to handle all the server side functionality of receiving recorded games and sending clients the past recordings when they started a new match.
+Legends of Raéowölf is a 3D open world sailing game with 2D platforming, built in 14 days for the The Resolution Jam.
+Players get to explore a open world on the seas in their trusty sailing ship. 
+When reaching an island they get to explore a 2D platforming section where they collect items and upgrades.
+I built the project from the ground up in Unity, developing all the following systems myself:
+
+* Sailing
+* Cutscnes
+* Dialog and Quests
+* Platforming
+* 2D/3D switching
+* Dungeons and islands
 
 {% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-6/Screenshot1.png" text="View GitHub" %}
 
