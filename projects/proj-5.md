@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tinker's Ascent"
+developer: "Gideon"
 ---
 
 Tinker's Ascent is an open world platforming RPG. 
