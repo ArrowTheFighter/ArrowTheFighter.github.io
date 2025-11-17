@@ -9,12 +9,12 @@ Tinker's Ascent is an open world platforming RPG. I focused on the majority of t
 * Inventory System
 * Saving and loading systems
 * Dialog node tool in editor
-* Dialog implimentation
+* Dialog implementation
 * AI movement and detection
 * Cutscene manager
 * Quest and compass system
 * Object Repair system
 
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot1.jpg" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot8.jpg" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot9.jpg" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot8.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot9.png" text="View GitHub" %}
