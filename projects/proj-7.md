@@ -7,10 +7,10 @@ developer: "Gideon"
 Legends of Raéowölf is a 3D open world sailing game with 2D platforming, built in 14 days for the The Resolution Jam.
 Players get to explore an open world on the seas in their trusty sailing ship. 
 When reaching an island they get to explore a 2D platforming section where they collect items and upgrades.
-I built the project from the ground up in Unity, developing all the following systems myself:
+I built the project from the ground up in Unity, developing all of the following systems myself:
 
 * Sailing
-* Cutscnes
+* Cutscenes
 * Dialog and Quests
 * Platforming
 * 2D/3D switching
