@@ -23,7 +23,7 @@ projects:
 social:
 - {icon: 'twitter',   link: 'https://x.com/arrowthefighter'}
 - {icon: 'github',    link: 'https://github.com/ArrowTheFighter'}
-- {icon: 'linkedin',  link: 'www.linkedin.com/in/gideon-burnham'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/gideon-burnham'}
 - {icon: 'envelope',  link: 'mailto:mailto:contact@JordanAndGideon.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
