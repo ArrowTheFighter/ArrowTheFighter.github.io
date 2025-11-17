@@ -4,7 +4,10 @@ title: "Tinker's Ascent"
 developer: "Gideon"
 ---
 
-Tinker's Ascent is an open world platforming RPG. I focused on the majority of the programming for this project and wrote all the systems from scratch including but not limited to:
+Tinker's Ascent is an open world platforming RPG. 
+The Player explores an open world in the sky while gathering resources to help complete quests and rebuild their town.
+I focused on the majority of the programming for this project and wrote all the systems from scratch including but not limited to:
+
 * Character controller
 * Inventory System
 * Saving and loading systems
