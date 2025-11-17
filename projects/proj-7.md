@@ -16,5 +16,7 @@ I built the project from the ground up in Unity, developing all the following sy
 * 2D/3D switching
 * Dungeons and islands
 
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-6/Screenshot1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-7/Screenshot1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-7/Screenshot2.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-7/Screenshot3.png" text="View GitHub" %}
 
