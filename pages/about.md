@@ -18,8 +18,7 @@ looking for new opportunities to push my skills further and learn.
 ## Gideon
 
 After working part time as a freelance video editor, I decided to learn game development and coding.
-I've spent the past 6 years learning and building games with Unity. Games have been a huge
-part of my life, growing up I spent countless hours with my siblings and close friends playing nintendo
-and playstation titles. To this day I still connect with my friends and family through various gaming platforms.
-Creating experinces for others and seeing them explore the worlds I create is what drives my passion
-for game development.
+I've spent the past 6 years learning and building games with Unity. I've focused my skills on building character controllers, modular systems and preformant code.
+Games have been a huge part of my life, growing up I spent countless hours with my siblings and close friends playing nintendo and playstation titles.
+To this day I still connect with my friends and family through various gaming platforms.
+Creating experinces for others and seeing them explore the worlds I create is what drives my passion for game development.
