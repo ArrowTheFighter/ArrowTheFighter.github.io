@@ -18,7 +18,7 @@ projects:
 - {name: "Tinkers Ascent",  url: 'proj-5',thumbnail: 'thumbnail.jpg'}
 - {name: 'At Capacity',  url: 'proj-6',thumbnail: 'thumbnail.png'}
 - {name: 'Legend of Raéowölf',  url: 'proj-7',thumbnail: 'thumbnail.png'}
-- {name: 'Spirit Web',  url: 'proj-8',thumbnail: 'thumbnail.png'}
+- {name: 'Spirit Web',  url: 'proj-8',thumbnail: 'thumbnailNew.png'}
 
 #-------------------------------
 # Contact Section
