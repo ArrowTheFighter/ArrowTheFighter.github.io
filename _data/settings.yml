@@ -15,7 +15,7 @@ projects:
 - {name: 'Project Two',   url: 'proj-2',thumbnail: 'thumbnail.jpg'}
 - {name: 'Project Three', url: 'proj-3',thumbnail: 'thumbnail.jpg'}
 - {name: 'Project Four',  url: 'proj-4',thumbnail: 'thumbnail.jpg'}
-- {name: "Tinker\'s Ascent",  url: 'proj-5',thumbnail: 'thumbnail.jpg'}
+- {name: "Tinkers Ascent",  url: 'proj-5',thumbnail: 'thumbnail.jpg'}
 - {name: 'At Capacity',  url: 'proj-6',thumbnail: 'thumbnail.png'}
 
 #-------------------------------
