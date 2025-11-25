@@ -19,6 +19,9 @@ Behaviour Tree Designs.
 
 View the Github Page here: <https://github.com/LeGingerDev/Architect-of-Evil>
 
-{% include image.html url="https://github.com/LeGingerDev/Architect-of-Evil" image="projects/proj-1/dog.jpg" text="View GitHub" %}
+{% include image.html url="https://github.com/LeGingerDev/Architect-of-Evil" image="projects/proj-1/AOE_1.png" text="View GitHub" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" text="View GitHub" %}
+{% include image.html url="https://github.com/LeGingerDev/Architect-of-Evil" image="projects/proj-1/AOE_2.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/Architect-of-Evil" image="projects/proj-1/AOE_3.png" text="View GitHub" %}
+
