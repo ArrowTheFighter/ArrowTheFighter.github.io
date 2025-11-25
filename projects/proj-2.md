@@ -22,4 +22,12 @@ Admin/Debug Console Panel
 
 View the Github Page here: <https://github.com/LeGingerDev/IdleCultists>
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" text="View GitHub" %}
+{% include image.html url="https://github.com/LeGingerDev/IdleCultists" image="projects/proj-2/Cultists_1.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/IdleCultists" image="projects/proj-2/Cultists_2.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/IdleCultists" image="projects/proj-2/Cultists_3.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/IdleCultists" image="projects/proj-2/Cultists_4.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/IdleCultists" image="projects/proj-2/Cultists_5.png" text="View GitHub" %}
