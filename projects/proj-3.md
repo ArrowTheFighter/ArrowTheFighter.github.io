@@ -1,8 +1,21 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'A Slimes Adventure: Mine Rush'
+developer: "Jordan Grant-Hall"
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+Mine Rush was a retro style mobile game inspired by the old mine cart races from the Donkey Kong series. 
+The player goes through a mining tunnel as a slime in a mine cart avoiding obstacles and bats in a procedurally generated environment.
+I focused on the core gameplay loop and polish to the game with systems such as;
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+Procedural TileMap Generator
+Player Controller and Animations
+Online Connectivity to Playfab
+Leaderboards
+Achievements
+Obstacles, Entities, AI
+Saving/Loading
+Customisation System
+Purchasables/IAP
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" text="View GitHub" %}

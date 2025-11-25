@@ -1,26 +1,19 @@
 ---
 layout: post
-title: "Tinker's Ascent"
-developer: "Gideon"
+title: "Critter'n Roll: A Twitch Chat Experience"
+developer: "Jordan Grant-Hall"
 ---
 
-Tinker's Ascent is an open world platforming RPG. 
-The Player explores an open world in the sky while gathering resources to help complete quests and rebuild their town.
-I focused on the majority of the programming for this project and wrote all the systems from scratch including but not limited to:
+Critter and Roll is a cute and charming Twitch Chat Viewer game designed to be played on stream with viewers.
+As a viewer you input commands into chat to roll around your farm animal around a pen riddled with obstacles to escape within the time limit.
+Designed in 45 days as part of a self imposed challenge to release on Steam. It boasts a few nicely designed systems within it, such as;
 
-* Character controller
-* Inventory System
-* Saving and loading systems
-* Dialog node tool in editor
-* Dialog implementation
-* AI movement and detection
-* Cutscene manager
-* Quest and compass system
-* Object Repair system
+Level Loading Systems,
+Customisation Systems,
+Twitch Connectivity and Command Parsing Layers,
+Leaderboards,
+Levelling up/ Player Statistics System,
 
-View the github page here: <https://github.com/ArrowTheFighter/ProjectBuildsmith><br>
-Check out the game on Steam: <https://store.steampowered.com/app/3880790/Tinkers_Ascent/>
+View the Github Page here: <https://github.com/LeGingerDev/Critter-n-Roll>
 
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot1.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot8.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot9.png" text="View GitHub" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" text="View GitHub" %}
