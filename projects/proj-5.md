@@ -16,4 +16,8 @@ Levelling up/ Player Statistics System,
 
 View the Github Page here: <https://github.com/LeGingerDev/Critter-n-Roll>
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" text="View GitHub" %}
+{% include image.html url="https://github.com/LeGingerDev/Critter-n-Roll" image="projects/proj-5/CnR_1.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/Critter-n-Roll" image="projects/proj-5/CnR_2.png" text="View GitHub" %}
+
+{% include image.html url="https://github.com/LeGingerDev/Critter-n-Roll" image="projects/proj-5/CnR_3.png" text="View GitHub" %}
