@@ -18,4 +18,10 @@ Saving/Loading
 Customisation System
 Purchasables/IAP
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" text="View GitHub" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/MineRush-1.png" text="View GitHub" %}
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/MineRush-2.png" text="View GitHub" %}
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/MineRush-3.png" text="View GitHub" %}
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-3/MineRush-4.png" text="View GitHub" %}
