@@ -14,7 +14,7 @@ projects:
 - {name: 'Architect of Evil',   url: 'proj-1',thumbnail: 'AOE_Cover.png'}
 - {name: 'Idle Cultists',   url: 'proj-2',thumbnail: 'Cover.png'}
 - {name: 'A Slimes Adventure: Mine Rush', url: 'proj-3',thumbnail: 'CoverArt.png'}
-- {name: 'Rhythm TD',  url: 'proj-4',thumbnail: 'thumbnail.jpg'}
+- {name: 'Rhythm TD',  url: 'proj-4',thumbnail: 'Cover.png'}
 - {name: "Critter'n Roll: A Twitch Chat Experience",  url: 'proj-5',thumbnail: 'thumbnail.jpg'}
 - {name: "Tinkers Ascent",  url: 'proj-TinkersAscent',thumbnail: 'thumbnail.jpg'}
 - {name: 'At Capacity',  url: 'proj-AtCapacity',thumbnail: 'thumbnail.png'}

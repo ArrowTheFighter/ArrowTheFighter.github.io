@@ -12,4 +12,8 @@ Rhythm/BPM System
 Save/Load System
 Entity and Towers System
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" text="View GitHub" %}
+{% include image.html url="http://www.gratisography.com" image="projects/proj-4/_01.png" text="View GitHub" %}
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-4/_02.png" text="View GitHub" %}
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-4/_03.png" text="View GitHub" %}
