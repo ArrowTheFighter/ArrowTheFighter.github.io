@@ -11,7 +11,7 @@ I built this game from scratch and developed the character controller and visual
 View the github page here: <https://github.com/ArrowTheFighter/spirit-web><br>
 Try the game out here: <https://arrowthefighter.itch.io/spirit-web-demo>
 
-{% include image.html url="https://github.com/ArrowTheFighter/spirit-web" image="projects/proj-8/Spirit_Web_SS1.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/spirit-web" image="projects/proj-8/Spirit_Web_SS2.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/spirit-web" image="projects/proj-8/Spirit_Web_SS3.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/spirit-web" image="projects/proj-SpiritWeb/Spirit_Web_SS1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/spirit-web" image="projects/proj-SpiritWeb/Spirit_Web_SS2.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/spirit-web" image="projects/proj-SpiritWeb/Spirit_Web_SS3.png" text="View GitHub" %}
 

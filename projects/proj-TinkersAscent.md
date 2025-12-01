@@ -21,6 +21,6 @@ I focused on the majority of the programming for this project and wrote all the 
 View the github page here: <https://github.com/ArrowTheFighter/ProjectBuildsmith><br>
 Check out the game on Steam: <https://store.steampowered.com/app/3880790/Tinkers_Ascent/>
 
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot1.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot8.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-5/Screenshot9.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-TinkersAscent/Screenshot1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-TinkersAscent/Screenshot8.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/ProjectBuildsmith" image="projects/proj-TinkersAscent/Screenshot9.png" text="View GitHub" %}

@@ -12,5 +12,5 @@ I used an HTTP server in Node.js to handle all the server side functionality of 
 View the github page here: <https://github.com/KauyonKais/kenneyjam_2025_power><br>
 Try the game out here: <https://arrowthefighter.itch.io/at-capacity>
 
-{% include image.html url="https://github.com/KauyonKais/kenneyjam_2025_power" image="projects/proj-6/Screenshot1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/KauyonKais/kenneyjam_2025_power" image="projects/proj-AtCapactity/Screenshot1.png" text="View GitHub" %}
 

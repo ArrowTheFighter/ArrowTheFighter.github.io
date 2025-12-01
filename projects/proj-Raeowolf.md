@@ -19,7 +19,7 @@ I built the project from the ground up in Unity, developing all of the following
 View the github page here: <https://github.com/ArrowTheFighter/TheResolutionJam><br>
 Try the game out here: <https://arrowthefighter.itch.io/raeowolf>
 
-{% include image.html url="https://github.com/ArrowTheFighter/TheResolutionJam" image="projects/proj-7/Screenshot1.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/TheResolutionJam" image="projects/proj-7/Screenshot2.png" text="View GitHub" %}
-{% include image.html url="https://github.com/ArrowTheFighter/TheResolutionJam" image="projects/proj-7/Screenshot3.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/TheResolutionJam" image="projects/proj-Raeowolf/Screenshot1.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/TheResolutionJam" image="projects/proj-Raeowolf/Screenshot2.png" text="View GitHub" %}
+{% include image.html url="https://github.com/ArrowTheFighter/TheResolutionJam" image="projects/proj-Raeowolf/Screenshot3.png" text="View GitHub" %}
 
